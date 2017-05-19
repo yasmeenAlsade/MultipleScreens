@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="FontSizeView">8pt</dimen>
+
+    <dimen name="FontSizeTitleView">10pt</dimen>
+</resources>
